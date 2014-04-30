@@ -1,4 +1,4 @@
-name := "RandomForestClassifier"
+name := "Classifiers"
 
 version := "0.1"
 
